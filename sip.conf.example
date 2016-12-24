@@ -1,0 +1,7 @@
+[sip]
+id=sip:USER@SIP.DOMAIN.TLD
+reg_uri=sip:SIP.DOMAIN.TLD
+proxy=sip:SIP.DOMAIN.TLD;transport=udp
+auth_user=USER
+auth_pass=PASS
+
